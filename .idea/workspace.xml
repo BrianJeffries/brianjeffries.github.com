@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15fa5343-5f1b-4b9d-a4ec-c8da1aaa0687" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/laravel_fieldset.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel_fieldset.html" afterPath="$PROJECT_DIR$/laravel_fieldset.html" />
     </list>
     <ignored path="brianjeffries.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +28,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="59" selection-start="1941" selection-end="1941" vertical-scroll-proportion="-16.25">
+            <state line="46" column="0" selection-start="1566" selection-end="2114" vertical-scroll-proportion="-11.25">
               <folding />
             </state>
           </provider>
@@ -38,7 +37,7 @@
       <file leaf-file-name="laravel_fieldset.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/laravel_fieldset.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="59" selection-start="1951" selection-end="1951" vertical-scroll-proportion="0.32676348">
+            <state line="55" column="45" selection-start="1938" selection-end="1938" vertical-scroll-proportion="0.3578838">
               <folding />
             </state>
           </provider>
@@ -69,8 +68,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/../tims-site-v1.3/foundation/stylesheets/iconic.css" />
-        <option value="$PROJECT_DIR$/laravel_fieldset.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/laravel_fieldset.html" />
       </list>
     </option>
   </component>
@@ -267,14 +266,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="59" selection-start="1941" selection-end="1941" vertical-scroll-proportion="-16.25">
+        <state line="46" column="0" selection-start="1566" selection-end="2114" vertical-scroll-proportion="-11.25">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel_fieldset.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="59" selection-start="1951" selection-end="1951" vertical-scroll-proportion="0.32676348">
+        <state line="55" column="45" selection-start="1938" selection-end="1938" vertical-scroll-proportion="0.3578838">
           <folding />
         </state>
       </provider>

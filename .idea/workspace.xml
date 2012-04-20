@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5efdc8b2-a1fd-43ad-912c-10551f7d6932" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/view.css" afterPath="$PROJECT_DIR$/view.css" />
     </list>
     <ignored path="brianjeffries.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -36,10 +37,10 @@
       <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="68" column="0" selection-start="2374" selection-end="2374" vertical-scroll-proportion="1.0580913">
+            <state line="100" column="77" selection-start="2990" selection-end="2990" vertical-scroll-proportion="0.34647304">
               <folding>
-                <marker date="1334888059000" expanded="true" signature="1173:1270" placeholder="..." />
-                <marker date="1334888059000" expanded="true" signature="1238:1261" placeholder="{...}" />
+                <marker date="1334888321000" expanded="true" signature="1173:1270" placeholder="..." />
+                <marker date="1334888321000" expanded="true" signature="1238:1261" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -145,13 +146,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="53" y="23" width="1867" height="1134" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Data Sources" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958768" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24958768" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -237,10 +238,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="0" selection-start="2374" selection-end="2374" vertical-scroll-proportion="1.0580913">
+        <state line="100" column="77" selection-start="2990" selection-end="2990" vertical-scroll-proportion="0.34647304">
           <folding>
-            <marker date="1334888059000" expanded="true" signature="1173:1270" placeholder="..." />
-            <marker date="1334888059000" expanded="true" signature="1238:1261" placeholder="{...}" />
+            <marker date="1334888321000" expanded="true" signature="1173:1270" placeholder="..." />
+            <marker date="1334888321000" expanded="true" signature="1238:1261" placeholder="{...}" />
           </folding>
         </state>
       </provider>

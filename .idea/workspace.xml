@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="15fa5343-5f1b-4b9d-a4ec-c8da1aaa0687" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel_fieldset.html" afterPath="$PROJECT_DIR$/laravel_fieldset.html" />
     </list>
     <ignored path="brianjeffries.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,28 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="56" column="64" selection-start="1942" selection-end="1942" vertical-scroll-proportion="0.43568465">
+            <state line="91" column="55" selection-start="2742" selection-end="2742" vertical-scroll-proportion="-10.791667">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="laravel_fieldset.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="laravel_fieldset.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/laravel_fieldset.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="45" selection-start="1938" selection-end="1938" vertical-scroll-proportion="-14.375">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="iconic.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../tims-site-v1.3/foundation/stylesheets/iconic.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="175" column="43" selection-start="5622" selection-end="5622" vertical-scroll-proportion="0.0">
+            <state line="135" column="12" selection-start="3527" selection-end="3527" vertical-scroll-proportion="0.5020747">
               <folding />
             </state>
           </provider>
@@ -67,8 +59,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/../tims-site-v1.3/foundation/stylesheets/iconic.css" />
-        <option value="$PROJECT_DIR$/laravel_fieldset.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/laravel_fieldset.html" />
       </list>
     </option>
   </component>
@@ -263,16 +255,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel_fieldset.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="45" selection-start="1938" selection-end="1938" vertical-scroll-proportion="-14.375">
+        <state line="91" column="55" selection-start="2742" selection-end="2742" vertical-scroll-proportion="-10.791667">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/laravel_fieldset.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="64" selection-start="1942" selection-end="1942" vertical-scroll-proportion="0.43568465">
+        <state line="135" column="12" selection-start="3527" selection-end="3527" vertical-scroll-proportion="0.5020747">
           <folding />
         </state>
       </provider>

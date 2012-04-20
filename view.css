@@ -1,0 +1,78 @@
+/**
+START MAIN CSS
+*/
+.background-1 {
+    background-image: url('images/beige_paper.png');
+}
+.background-2 {
+        background-color: rgba(255,255,255, 0.7);
+}
+.center {
+    text-align: center;
+}
+.center.row {
+    margin-top: 40px;
+}
+.header {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.center.row h1, .center.row h3, .center.row p {
+    margin: 40px 10px 40px 10px;
+}
+.border {
+    border: 1px solid white;
+}
+.border-radius {
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+}
+.shadow {
+    -webkit-box-shadow: 7px 7px 0px rgba(0,0,0,0.2);
+    -mox-box-shadow: 7px 7px 0px rgba(0,0,0,0.2);
+    -o-box-shadow: 7px 7px 0px rgba(0,0,0,0.2);
+    box-shadow: 7px 7px 0px rgba(0,0,0,0.2);
+}
+p, h1, h2, h3, h4, h5, h6, label, li {
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.2);
+}
+ol {
+    list-style-type: upper-roman;
+    text-align: left;
+}
+/**
+END MAIN CSS
+*/
+
+/**
+START CURL SHADOW CSS
+*/
+.shadow-wrap{position:relative;}
+.shadow-wrap .shadow-inner-1,
+.shadow-wrap .shadow-inner-2{
+    position:absolute;bottom:15px;width:30%;height:20%;z-index:-2;
+    -moz-box-shadow: rgba(0,0,0,0.5) 0 6px 15px 0;
+    -webkit-box-shadow: rgba(0,0,0,0.5) 0 6px 15px;
+    box-shadow: rgba(0,0,0,0.5) 0 6px 15px 0;
+}
+.shadow-wrap .shadow-inner-1{
+    left:18px;
+    -webkit-transform: rotate(-5deg);
+    -moz-transform: rotate(-5deg);
+    -O-transform: rotate(-5deg);
+}
+.shadow-wrap .shadow-inner-2{
+    right:18px;
+    -webkit-transform: rotate(5deg);
+    -moz-transform: rotate(5deg);
+    -o-transform: rotate(5deg);
+}
+
+.shadow-inner-1, .shadow-inner-2 {
+    z-index: -2;
+}
+/**
+END CURL SHADOW CSS
+*/
+

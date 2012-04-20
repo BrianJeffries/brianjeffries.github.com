@@ -1,137 +1,129 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-	<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
-	<!--[if lt IE 7]>
-	<html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
-	<!--[if IE 7]>
-	<html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
-	<!--[if IE 8]>
-	<html class="no-js lt-ie9" lang="en"> <![endif]-->
-	<!--[if gt IE 8]><!-->
-	<html lang="en"> <!--<![endif]-->
+	<meta charset="utf-8">
+	<title>Brian Jeffries</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="description" content="My Personal Page">
+	<meta name="author" content="Brian Jeffries">
 
-	<meta charset="utf-8"/>
-
-	                 <!-- Set the viewport width to device width for mobile -->
-	<meta name="viewport" content="width=device-width"/>
-
-	<title>Welcome to my personal page.</title>
-
-	                 <!-- Included CSS Files -->
-	<link rel="stylesheet" type="text/css" media="screen" href="foundation/stylesheets/iconic.css"/>
-	<link rel="stylesheet" type="text/css" media="screen" href="foundation/stylesheets/foundation.css"/>
-	<link rel="stylesheet" type="text/css" media="screen" href="view.css"/>
-	                 <!--[if lt IE 9]>
-	<link rel="stylesheet" type="text/css" href="foundation/stylesheets/ie.css">
-	                 <![endif]-->
-
-	                 <!--START CURL SHADOW CSS -->
-	                 <!--[if lt IE 9]>
+	<!-- Le styles -->
+	<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+	<link href="view.css" rel="stylesheet">
 	<style type="text/css">
-		.shadow-wrap .shadow-inner-1,
-		.shadow-wrap .shadow-inner-2 {
-			display: none;
+		body {
+			padding-top: 60px;
+			padding-bottom: 40px;
 		}
 	</style>
-	                 <![endif]-->
-	                 <!--END CURL SHADOW CSS-->
 
-	                 <!-- IE Fix for HTML5 Tags -->
-	                 <!--[if lt IE 9]>
-	<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-	                 <![endif]-->
-	<script src="date.js"></script>
-	<script src="foundation/javascripts/foundation.js"></script>
-	<script src="foundation/javascripts/app.js"></script>
+	<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+	<!--[if lt IE 9]>
+	<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+	<![endif]-->
 
-	<script>!function (d, s, id) {
-		var js, fjs = d.getElementsByTagName(s)[0];
-		if (!d.getElementById(id)) {
-			js = d.createElement(s);
-			js.id = id;
-			js.src = "//platform.twitter.com/widgets.js";
-			fjs.parentNode.insertBefore(js, fjs);
-		}
-	}(document, "script", "twitter-wjs");</script>
-	                 <!-- Place this render call where appropriate -->
-	<script type="text/javascript">
-		(function () {
-			var po = document.createElement('script');
-			po.type = 'text/javascript';
-			po.async = true;
-			po.src = 'https://apis.google.com/js/plusone.js';
-			var s = document.getElementsByTagName('script')[0];
-			s.parentNode.insertBefore(po, s);
-		})();
-	</script>
+	<!-- Le fav and touch icons -->
+	<!--<link rel="shortcut icon" href="../assets/ico/favicon.ico">-->
+	<!--<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png">-->
+	<!--<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png">-->
+	<!--<link rel="apple-touch-icon-precomposed" href="../assets/ico/apple-touch-icon-57-precomposed.png">-->
 </head>
 
 <body class="background-1">
-<div class="container header">
 
-	<div class="row">
-		<div class="twelve columns">
-			<a href="/"><img src="images/logo.png"/></a>
+<div class="navbar navbar-fixed-top">
+	<div class="navbar-inner">
+		<div class="container">
+			<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</a>
+
+			<a class="brand" href="#">Welcome ::</a>
+
+			<div class="nav-collapse">
+				<ul class="nav">
+					<li class="active"><a href="/">Home</a></li>
+
+					<li class="dropdown">
+						<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+							Projects
+							<b class="caret"></b>
+						</a>
+						<ul class="dropdown-menu">
+							<a href="/">
+								Laravel Fieldset
+							</a>
+						</ul>
+					</li>
+					</li>
+				</ul>
+			</div>
+			<!--/.nav-collapse -->
 		</div>
 	</div>
-
 </div>
 
 <div class="container">
 
-	<div class="clearfix shadow border-radius background-2">
+	<!-- Main hero unit for a primary marketing message or call to action -->
+	<div class="hero-unit">
+		<h1>Hello!</h1>
 
-		<div class="center row">
+		<p>Hi, I'm Brian. I am a truck driver, programmer, and designer. Mostly I am a truck driver
+		   though. I like the color black, minimalist industrial design, and succinct code.</p>
 
-			<div class="twelve columns">
-
-				<h1 class="center">Hello!</h1>
-
-				<h3 class="center">You have reached the correct website. Unfortunately, it isn't ready yet.</h3>
-
-			</div>
-
-		</div>
-
-		<div class="row">
-
-			<div class="eight columns centered">
-
-				<p>Eventually this page will have a lot of different projects listed on it. Cheers!</p>
-
-			</div>
-
-		</div>
-
-		<div class="row">
-
-			<div class="seven columns centered">
-
-				<div class="row">
-
-					<div class="six columns">
-
-						<p><a href="https://twitter.com/BrianJeffriesMe" class="twitter-follow-button"
-						      data-show-count="true" data-size="large">Follow @BrianJeffriesMe</a></p>
-
-					</div>
-
-					<div class="six columns">
-
-						<g:plusone></g:plusone>
-
-					</div>
-
-				</div>
-
-			</div>
-
-		</div>
+		<p>Feel free to check out a few of my projects! :-)</p>
 
 	</div>
 
+	<!-- Example row of columns -->
+	<div class="row">
+		<div class="span4">
+			<h2>Laravel Fieldset</h2>
+
+			<p>This is a fieldset class for the Laravel framework. It handles validations, many different field types,
+			   and the best part is you only have to write one fieldset to handle all your CRUD needs! </p>
+
+			<p><a class="btn btn-warning" href="#">Check it out &raquo;</a></p>
+		</div>
+		<div class="span4">
+			<h2>Heading</h2>
+
+			<pre>
+test
+
+			</pre>
+
+			<p><a class="btn" href="#">View details &raquo;</a></p>
+		</div>
+		<div class="span4">
+			<h2>Heading</h2>
+
+			<p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula
+			   porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut
+			   fermentum massa justo sit amet risus.</p>
+
+			<p><a class="btn" href="#">View details &raquo;</a></p>
+		</div>
+	</div>
+
+	<hr>
+
+	<footer>
+		<p>&copy; Brian Jeffries 2012</p>
+	</footer>
+
 </div>
+<!-- /container -->
+
+<!-- Le javascript
+		   ================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="bootstrap/js/bootstrap.min.js"></script>
 
 </body>
 </html>
